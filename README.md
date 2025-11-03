@@ -18,6 +18,6 @@ It demonstrates class design, object-oriented programming, and file handling in 
 ## How to Compile and Run
 
 ### 1. Compile
-Open a terminal or command prompt in your project folder and run:
+Open a terminal or command prompt and run:
 ```bash
 g++ -std=c++17 -O2 -Wall main.cpp -o bank_sim
